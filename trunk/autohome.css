@@ -1,5 +1,5 @@
 body {  
-  background-image:url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfVSDNnTFDP997RHf3rkgqI35V3GmCk7K0zC4npVSGTycXmni0iA');
+  background-color:white;
   margin:50px 0px; padding:0px;
 	text-align:center;
 	}
@@ -27,7 +27,7 @@ background-color:black;
 padding:20px;
 text-align:center;
 }
-a:link {color:black;}      /* unvisited link */
+a:link {color:white;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
 a:hover {color:white;}  /* mouse over link */
 a:active {color:white;}  /* selected link */
