@@ -25,10 +25,10 @@ border-radius:25px;
 -o-border-radius:10px 10px 10px;
 -webkit-border-radius:28;
 font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
-font-size: 40px;
+font-size: 100%;
 -moz-border-radius:10px 10px 10px;
 background-color:#006600;
-padding:30px;
+padding:100%;
 text-align:center;
 }
 
@@ -46,10 +46,10 @@ border-radius:25px;
 -o-border-radius:10px 10px 10px;
 -webkit-border-radius:28;
 font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
-font-size: 40px;
+font-size: 100%;
 -moz-border-radius:10px 10px 10px;
 background-color:#BA0000;
-padding:30px;
+padding:100%;
 text-align:center;
 }
 
