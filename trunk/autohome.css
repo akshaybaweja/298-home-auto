@@ -21,14 +21,14 @@ border-bottom:1px solid;
 border-right:1px solid;
 border-left:1px solid;
 text-shadow: 4px 1px 3px #050405;
-border-radius:28px;
+border-radius:25px;
 -o-border-radius:10px 10px 10px;
 -webkit-border-radius:28;
 font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
-font-size: 80px;
+font-size: 40px;
 -moz-border-radius:10px 10px 10px;
 background-color:#002c4a;
-padding:40px;
+padding:30px;
 text-align:center;
 }
 
