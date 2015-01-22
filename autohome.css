@@ -8,7 +8,7 @@ h1
 text-align: center;
 font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
 }
-a
+/*a
 {
 text-decoration:none;
 width:900px;
@@ -26,8 +26,26 @@ font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
 background-color:black;
 padding:20px;
 text-align:center;
+}*/
+/*a:link {color:white;}      /* unvisited link */
+/*a:visited {color:white;}  /* visited link */
+/*a:hover {color:white;}  /* mouse over link */
+/*a:active {color:white;}  /* selected link */
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 4px 1px 3px #050405;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 80px;
+  padding: 40px;
+  background: #002c4a;
+  text-decoration: none;
 }
-a:link {color:white;}      /* unvisited link */
-a:visited {color:white;}  /* visited link */
-a:hover {color:white;}  /* mouse over link */
-a:active {color:white;}  /* selected link */
+
+.btn:hover {
+  background: #075585;
+  text-decoration: none;
+}
