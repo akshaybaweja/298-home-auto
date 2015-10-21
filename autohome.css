@@ -1,13 +1,14 @@
 body 
 {  
   background-image:url('./background-pattern-design-65.jpg');
-  margin:50px 0px; padding:0px;
-	text-align:center;
+  margin:50px 0px; 
+  padding:0px;
+  text-align:center;
  }
  
 h1
 { 
-text-align: center;
+text-align:center;
 font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
 }
 
@@ -19,13 +20,13 @@ border-top:1px solid;
 border-bottom:1px solid;
 border-right:1px solid;
 border-left:1px solid;
-text-shadow: 4px 1px 3px #050405;
+text-shadow:4px 1px 3px #050405;
 color:#ffffff;
 border-radius:25px;
 -o-border-radius:10px 10px 10px;
 -webkit-border-radius:28;
 font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
-font-size: 60px;
+font-size:60px;
 -moz-border-radius:10px 10px 10px;
 background-color:#006600;
 padding:80px;
@@ -40,13 +41,13 @@ border-top:1px solid;
 border-bottom:1px solid;
 border-right:1px solid;
 border-left:1px solid;
-text-shadow: 4px 1px 3px #050405;
+text-shadow:4px 1px 3px #050405;
 color:#ffffff;
 border-radius:25px;
 -o-border-radius:10px 10px 10px;
 -webkit-border-radius:28;
 font-family:"Trebuchet MS",Arial, Helvetica, sans-serif;
-font-size: 60px;
+font-size:60px;
 -moz-border-radius:10px 10px 10px;
 background-color:#BA0000;
 padding:80px;
